@@ -1,0 +1,19 @@
+.main {
+  display:block;
+}
+
+.userMenu {
+  position: fixed;
+  left: 0;
+  top: 0%;
+  width: 8em;
+  background-color: gray;
+  display:block;
+}
+
+.herolist {
+  background-color: red;
+  height: 40px;
+  border-color: black;
+  border-radius: 10px;
+}
